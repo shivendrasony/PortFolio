@@ -80,18 +80,17 @@ export function Footer() {
               </a>
             </p>
             <p className="text-muted-foreground mb-4">
-              <a href="tel:+1234567890" className="hover:text-primary transition-colors">
-                +1 (234) 567-8900
+              <a href="+91 8210877490" className="hover:text-primary transition-colors">
+                +91 8210877490
               </a>
             </p>
-            <p className="text-muted-foreground">New York, NY</p>
+            <p className="text-muted-foreground">Ambala, Haryana, India</p>
           </div>
         </div>
 
         <div className="border-t border-border mt-8 pt-8 text-center">
           <p className="text-muted-foreground flex items-center justify-center gap-2">
-            © {currentYear} Shivendra Sony. Made with <Heart className="h-4 w-4 text-red-500" /> using Next.js &
-            Tailwind CSS
+            © {currentYear} Shivendra Sony. Made with <Heart className="h-4 w-4 text-red-500" /> using Next.js
           </p>
         </div>
       </div>
