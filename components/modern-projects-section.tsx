@@ -103,6 +103,18 @@ export function ModernProjectsSection() {
             className="w-32 h-32 rounded-full object-cover border-4 border-primary shadow-lg"
           />
         </div>
+        {/* Resume Download Button */}
+        <div className="flex justify-center mb-8">
+          <a
+            href="/Shiv_Resume.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block bg-primary text-white font-semibold px-6 py-2 rounded-full shadow hover:bg-primary/90 transition-colors"
+            download
+          >
+            Download My Resume
+          </a>
+        </div>
         {/* Contact and Social Info */}
         <div className="flex flex-col items-center mb-8 gap-2 text-muted-foreground">
           <div className="text-lg font-semibold text-foreground">Shivendra Sony</div>
