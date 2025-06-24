@@ -61,10 +61,10 @@ export function ContactSection() {
                 <div>
                   <p className="font-semibold text-foreground">Email</p>
                   <a
-                    href="mailto:shivendra@example.com"
+                    href="shivendrasony22@gmail.com"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    shivendra@example.com
+                    shivendrasony22@gmail.com
                   </a>
                 </div>
               </div>
@@ -75,8 +75,8 @@ export function ContactSection() {
                 </div>
                 <div>
                   <p className="font-semibold text-foreground">Phone</p>
-                  <a href="tel:+1234567890" className="text-muted-foreground hover:text-primary transition-colors">
-                    +1 (234) 567-8900
+                  <a href="+91 8210877490" className="text-muted-foreground hover:text-primary transition-colors">
+                    +91 8210877490
                   </a>
                 </div>
               </div>
@@ -87,20 +87,20 @@ export function ContactSection() {
                 </div>
                 <div>
                   <p className="font-semibold text-foreground">Location</p>
-                  <p className="text-muted-foreground">New York, NY</p>
+                  <p className="text-muted-foreground">Ambala, Haryana, India</p>
                 </div>
               </div>
             </div>
 
             <div className="flex gap-4 pt-6">
               <Button variant="outline" size="sm" asChild>
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/shivendrasony" target="_blank" rel="noopener noreferrer">
                   <Github className="h-4 w-4 mr-2" />
                   GitHub
                 </a>
               </Button>
               <Button variant="outline" size="sm" asChild>
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://linkedin.com/in/shivendra-sony-8232b5247/" target="_blank" rel="noopener noreferrer">
                   <Linkedin className="h-4 w-4 mr-2" />
                   LinkedIn
                 </a>
