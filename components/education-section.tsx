@@ -6,21 +6,21 @@ export function EducationSection() {
   const education = [
     {
       degree: "Bachelor of Technology in Computer Science",
-      institution: "XYZ University",
-      duration: "2020 - 2024",
-      gpa: "3.8/4.0",
+      institution: "Maharishi Markandeshwar (Deemed to be University)",
+      duration: "2022 - 2026",
+      cgpa: "7.7",
       description:
-        "Specialized in software engineering and web development. Completed coursework in data structures, algorithms, database systems, and software architecture.",
+        "Specialized in software engineering and web development. Database systems, and software architecture.",
       achievements: ["Dean's List (3 semesters)", "Best Final Year Project Award", "Programming Contest Winner"],
     },
     {
       degree: "Higher Secondary Certificate",
-      institution: "ABC Senior Secondary School",
-      duration: "2018 - 2020",
-      gpa: "95%",
+      institution: "BD College, Patna",
+      duration: "2020 - 2022",
+      gpa: "76%",
       description:
-        "Focused on Mathematics, Physics, and Computer Science. Developed strong analytical and problem-solving skills.",
-      achievements: ["School Topper in Computer Science", "Mathematics Olympiad Qualifier"],
+        "Focused on Mathematics, Physics, and Chemistry.",
+      achievements: ["Good in Mathematics"],
     },
   ]
 
