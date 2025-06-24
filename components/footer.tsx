@@ -27,7 +27,7 @@ export function Footer() {
                 </a>
               </Button>
               <Button variant="ghost" size="icon" asChild>
-                <a href="mailto:shivendra@example.com">
+                <a href="mailto:shivendrasony22@gmail.com">
                   <Mail className="h-5 w-5" />
                 </a>
               </Button>
@@ -75,8 +75,8 @@ export function Footer() {
           <div>
             <h3 className="text-lg font-semibold text-foreground mb-4">Get In Touch</h3>
             <p className="text-muted-foreground mb-2">
-              <a href="mailto:shivendra@example.com" className="hover:text-primary transition-colors">
-                shivendra@example.com
+              <a href="mailto:shivendrasony22@gmail.com" className="hover:text-primary transition-colors">
+                shivendrasony22@gmail.com
               </a>
             </p>
             <p className="text-muted-foreground mb-4">
