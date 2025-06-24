@@ -93,17 +93,17 @@ export function ModernHeroSection() {
 
             <div className="flex gap-4">
               <Button variant="outline" size="lg" className="glass hover:glass-dark rounded-2xl p-4 group" asChild>
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/shivendrasony" target="_blank" rel="noopener noreferrer">
                   <Github className="h-6 w-6 group-hover:scale-110 transition-transform" />
                 </a>
               </Button>
               <Button variant="outline" size="lg" className="glass hover:glass-dark rounded-2xl p-4 group" asChild>
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/shivendra-sony-8232b5247/" target="_blank" rel="noopener noreferrer">
                   <Linkedin className="h-6 w-6 group-hover:scale-110 transition-transform" />
                 </a>
               </Button>
               <Button variant="outline" size="lg" className="glass hover:glass-dark rounded-2xl p-4 group" asChild>
-                <a href="mailto:shivendra@example.com">
+                <a href="mailto:shivendrasony22@gmail.com">
                   <Mail className="h-6 w-6 group-hover:scale-110 transition-transform" />
                 </a>
               </Button>
