@@ -95,6 +95,14 @@ export function ModernProjectsSection() {
       <div className="absolute bottom-0 right-1/4 w-96 h-96 bg-gradient-to-r from-pink-500/10 to-primary/10 rounded-full blur-3xl" />
 
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        {/* Personal Image at the top of the Projects Section */}
+        <div className="flex justify-center mb-8">
+          <img
+            src="/profile.jpg"
+            alt="Shivendra Sony Profile"
+            className="w-32 h-32 rounded-full object-cover border-4 border-primary shadow-lg"
+          />
+        </div>
         <div className="text-center mb-20">
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass border border-primary/20 mb-6">
             <Star className="w-4 h-4 text-primary" />
