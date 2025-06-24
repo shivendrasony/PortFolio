@@ -11,7 +11,7 @@ export function EducationSection() {
       cgpa: "7.7",
       description:
         "Specialized in software engineering and web development. Database systems, and software architecture.",
-      achievements: ["Dean's List (3 semesters)", "Best Final Year Project Award", "Programming Contest Winner"],
+      achievements: ["Winner of Vashudev Kutumbakam 2025 Representing the culture of Bihar"],
     },
     {
       degree: "Higher Secondary Certificate",

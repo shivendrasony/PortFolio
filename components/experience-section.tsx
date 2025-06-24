@@ -5,15 +5,6 @@ import { Calendar, MapPin } from "lucide-react"
 export function ExperienceSection() {
   const experiences = [
     {
-      title: "Full Stack Developer Intern",
-      company: "TechCorp Solutions",
-      location: "Remote",
-      duration: "Jun 2023 - Aug 2023",
-      description:
-        "Developed and maintained web applications using React.js and Node.js. Collaborated with senior developers to implement new features and optimize existing code. Gained hands-on experience with agile development methodologies.",
-      technologies: ["React.js", "Node.js", "MongoDB", "Express.js", "Git"],
-    },
-    {
       title: "Frontend Developer",
       company: "StartupXYZ",
       location: "New York, NY",
@@ -22,24 +13,7 @@ export function ExperienceSection() {
         "Built responsive user interfaces for a fintech startup. Implemented modern design systems and improved application performance by 40%. Worked closely with UX/UI designers to create pixel-perfect implementations.",
       technologies: ["React.js", "TypeScript", "Tailwind CSS", "Next.js", "Figma"],
     },
-    {
-      title: "Freelance Web Developer",
-      company: "Self-Employed",
-      location: "Remote",
-      duration: "Sep 2022 - Dec 2022",
-      description:
-        "Delivered custom web solutions for small businesses and startups. Managed complete project lifecycle from requirements gathering to deployment. Built e-commerce platforms, portfolio websites, and business applications.",
-      technologies: ["WordPress", "React.js", "PHP", "MySQL", "AWS"],
-    },
-    {
-      title: "Academic Project Lead",
-      company: "University Computer Science Department",
-      location: "University Campus",
-      duration: "Jan 2022 - May 2022",
-      description:
-        "Led a team of 5 students in developing a campus management system. Implemented features for student registration, course management, and grade tracking. Presented the project at the annual tech symposium.",
-      technologies: ["Django", "Python", "PostgreSQL", "Bootstrap", "JavaScript"],
-    },
+
   ]
 
   return (
