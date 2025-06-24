@@ -106,7 +106,7 @@ export function ContactSection() {
                 </a>
               </Button>
               <Button variant="outline" size="sm" asChild>
-                <a href="/resume.pdf" download>
+                <a href="/Shiv_Resume.pdf" download>
                   <Download className="h-4 w-4 mr-2" />
                   Resume
                 </a>
