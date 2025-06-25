@@ -90,7 +90,7 @@ export function Footer() {
 
         <div className="border-t border-border mt-8 pt-8 text-center">
           <p className="text-muted-foreground flex items-center justify-center gap-2">
-            © {currentYear} Shivendra Sony. Made with <Heart className="h-4 w-4 text-red-500" /> using Next.js
+            © {currentYear} Shivendra Sony<Heart className="h-4 w-4 text-red-500" />
           </p>
         </div>
       </div>
