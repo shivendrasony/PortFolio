@@ -100,7 +100,7 @@ export function ModernProjectsSection() {
           <img
             src="/profile.webp"
             alt="Shivendra Sony Profile"
-            className="w-32 h-32 rounded-full object-cover border-4 border-primary shadow-lg"
+            className="w-48 h-48 rounded-full object-cover border-4 border-primary shadow-lg"
           />
         </div>
         {/* Resume Download Button */}
